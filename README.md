@@ -41,11 +41,7 @@ Chris' gist page is here:
 https://gist.github.com/ccstone
 
 It includes:
-* **REFERENCES FOR LEARNING & USING APPLESCRIPT**
-* **Edit_Email_in_BBEdit.applescript**
-* **Desktop_Sweeper.applescript**
-
-as well as other non AppleScript related information:
-
-* BBEdit-TextWrangler_RegEx_Cheat_Sheet.txt
+* **REFERENCES FOR LEARNING & USING APPLESCRIPT** A listing of various references to learn and become familiar with AppleScript
+* **Edit_Email_in_BBEdit.applescript** finds the selected email message with Spotlight and open it in BBEdit/TextWrangler for editing.
+* **Desktop_Sweeper.applescript** creates a dated folder inside ~/Documents/Sweep Desktop/ with newly swept items.
 

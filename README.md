@@ -42,6 +42,7 @@ At the time of writing, the link gives access to:
 * **CalendarLib** v1.0.0 (script library for manipulating calendar events without using Calendar.app)
 * **DefaultsLib** v1.0.0 (makes it simple to take advantage of the built-in defaults system for storing your scripts' preferences)
 * **Dialog Toolkit** v1.0.2 (script library for showing enhanced dialogs)
+* **FileTagsLib** v1.0.0 (to retrieve and set file tags)
 
 Shane also posted three sample libraries to the AppleScript list in December 2013. "All were based on an object-oriented design shamelessly borrowed from SmartString, down to the names." (2) The code will eventually be consolidated on Shane's page, but I'm putting the links here in the meanwhile.
 

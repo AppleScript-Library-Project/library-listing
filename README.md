@@ -44,7 +44,7 @@ At the time of writing, the link gives access to:
 * **Dialog Toolkit** (script library for showing enhanced dialogs)
 * **FileTagsLib** (to retrieve and set file tags)
 
-Shane also posted three sample libraries to the AppleScript list in December 2013. "All were based on an object-oriented design shamelessly borrowed from SmartString, down to the names." (2) The code will eventually be consolidated on Shane's page, but I'm putting the links here in the meanwhile.
+Shane also posted three sample libraries to the AppleScript list in December 2013. "All were based on an object-oriented design shamelessly borrowed from SmartString, down to the names." (1) The code will eventually be consolidated on Shane's page, but I'm putting the links here in the meanwhile.
 
 **Smartset** (One of the useful classes in Cocoa (and other languages) is the set, which is like a list except each item can only appear once. Sets are not normally ordered like lists, but Cocoa also has ordered lists, which maintain their order. Anyway, they are a good class to show the convenience of using ASObjC-based script libraries.)
 http://lists.apple.com/archives/applescript-users/2013/Dec/msg00057.html
@@ -55,7 +55,7 @@ http://lists.apple.com/archives/applescript-users/2013/Dec/msg00113.html
 **SmartList** (This is an ASObjC-based library for a SmartList object, similar to the SmartSet)
 http://lists.apple.com/archives/applescript-users/2013/Dec/msg00093.html
 
-(2) Quoted from his December 22 mail to the AS list
+(1) Quoted from Shane's December 22 mail to the AS list
 
 ## Code by Chris Stone
 

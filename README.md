@@ -38,11 +38,11 @@ Shane is consolidating the various libraries he provides at the following link:
 http://www.macosxautomation.com/applescript/apps/Script_Libs.html
 
 At the time of writing, the link gives access to:
-* **BridgePlus** v1.3.1 (collection of handlers based on the functionality of ASObjC Runner.app, and commands that support improved bridging between AppleScript and Cocoa)
-* **CalendarLib** v1.0.0 (script library for manipulating calendar events without using Calendar.app)
-* **DefaultsLib** v1.0.0 (makes it simple to take advantage of the built-in defaults system for storing your scripts' preferences)
-* **Dialog Toolkit** v1.0.2 (script library for showing enhanced dialogs)
-* **FileTagsLib** v1.0.0 (to retrieve and set file tags)
+* **BridgePlus** (collection of handlers based on the functionality of ASObjC Runner.app, and commands that support improved bridging between AppleScript and Cocoa)
+* **CalendarLib** (script library for manipulating calendar events without using Calendar.app)
+* **DefaultsLib** (makes it simple to take advantage of the built-in defaults system for storing your scripts' preferences)
+* **Dialog Toolkit** (script library for showing enhanced dialogs)
+* **FileTagsLib** (to retrieve and set file tags)
 
 Shane also posted three sample libraries to the AppleScript list in December 2013. "All were based on an object-oriented design shamelessly borrowed from SmartString, down to the names." (2) The code will eventually be consolidated on Shane's page, but I'm putting the links here in the meanwhile.
 

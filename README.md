@@ -44,6 +44,8 @@ It includes:
 * **REFERENCES FOR LEARNING & USING APPLESCRIPT**
 * **Edit_Email_in_BBEdit.applescript**
 * **Desktop_Sweeper.applescript**
+
 as well as other non AppleScript related information:
+
 * BBEdit-TextWrangler_RegEx_Cheat_Sheet.txt
 

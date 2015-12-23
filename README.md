@@ -1,3 +1,16 @@
+# Introduction to AppleScript libraries
+
+AppleScript libraries were introduced along with AppleScriptObjective-C, in Mavericks (OSX 10.9).
+
+The AppleScript Language Reference has this chapter on script libraries (also on p. 72 of the pdf):
+https://developer.apple.com/library/mac/documentation/AppleScript/Conceptual/AppleScriptLangGuide/conceptual/ASLR_script_objects.html#//apple_ref/doc/uid/TP40000983-CH207-SW6
+
+MacOsxAutomation explains libraries in simpler terms:
+https://macosxautomation.com/mavericks/libraries/
+
+MacScripter also has a tutorial:
+http://macscripter.net/viewtopic.php?id=41638
+
 # Listing of existing AppleScript libraries
 (alphabetical order of author)
 
@@ -8,6 +21,12 @@
 http://www.seanet.com/~jonpugh/software/SmartString.applescript
 
 (1) Quoted from Jon's mail to the AS list on December 21 2015
+
+## Code by Lukas Reindl
+
+Lukas has a nice collection of libraries either written by himself or copied from the net. They offer handlers for display, files & folders, iWorks, Keychain, lists, numbers, property lists, strings, Time Machine, and urls.
+
+http://applescript.bratis-lover.net/library/
 
 ## Code by Shane Stanley
 

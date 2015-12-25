@@ -14,8 +14,21 @@ MacScripter also has a tutorial:
 
 http://macscripter.net/viewtopic.php?id=41638
 
+Although it is not strictly related to AppleScript libraries, the AppleScript Reference Library caters to the AppleScript developers and as such is an invaluable ressource:
+
+https://applescriptlibrary.wordpress.com
+
+
 # Listing of existing AppleScript libraries
 (alphabetical order of author)
+
+## Code by Apple
+
+**Apple Configurator 2** provides users with a library inside its /Contents/Library/Script Libraries/ folder. The application itself is not scriptable. As Shane Stanley explains on the Apple Script list, the handlers are built around command line tools via **do shell script**.(1) The application is available from the App Store only.
+
+https://support.apple.com/en-ap/HT205285
+
+(1) http://lists.apple.com/archives/applescript-users/2015/Oct/msg00032.html
 
 ## Code by Jon Pugh
 

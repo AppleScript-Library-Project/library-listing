@@ -30,6 +30,14 @@ https://support.apple.com/en-ap/HT205285
 
 (1) http://lists.apple.com/archives/applescript-users/2015/Oct/msg00032.html
 
+## Code by hhas
+
+**applescript-stdlib** is an attempt at writing a standard library for AppleScript.(1) It proposes handlers for dates, files, formats, library support, lists, maths, tasks, tests, text and types.
+
+https://github.com/hhas/applescript-stdlib
+
+(1) http://lists.apple.com/archives/applescript-users/2016/Jan/msg00042.html
+
 ## Code by Jon Pugh
 
 **SmartString** is a string manipulation library, "based on a 1984 Scientific American article by Niklaus Wirth about a better way to manipulate strings" (1).

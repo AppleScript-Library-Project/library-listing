@@ -52,6 +52,12 @@ Lukas has a nice collection of libraries either written by himself or copied fro
 
 http://applescript.bratis-lover.net/library/
 
+## Code by PFiddlesoft
+
+The disk image for UI Browser includes the **PFiddlesoft GUI Scripting Library** that offers handlers useful in GUI Scripting scripts. The library can be used independently of UI Browser.
+
+http://pfiddlesoft.com/uibrowser/
+
 ## Code by Shane Stanley
 
 Shane is consolidating the various libraries he provides at the following link:

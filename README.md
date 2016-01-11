@@ -1,8 +1,6 @@
 # Introduction to AppleScript libraries
 
-AppleScript libraries were introduced along with AppleScriptObjective-C, in Mavericks (OSX 10.9).
-
-The AppleScript Language Reference has this chapter on script libraries (also on p. 72 of the pdf):
+AppleScript libraries were introduced along with AppleScriptObjective-C, in Mavericks (OSX 10.9). The AppleScript Language Reference has this chapter on script libraries (also on p. 72 of the pdf):
 
 https://developer.apple.com/library/mac/documentation/AppleScript/Conceptual/AppleScriptLangGuide/conceptual/ASLR_script_objects.html#//apple_ref/doc/uid/TP40000983-CH207-SW6
 
@@ -13,6 +11,10 @@ https://macosxautomation.com/mavericks/libraries/
 MacScripter also has a tutorial:
 
 http://macscripter.net/viewtopic.php?id=41638
+
+Chris Page says a few things about script library caching:
+
+http://lists.apple.com/archives/applescript-users/2016/Jan/msg00031.html
 
 Although it is not strictly related to AppleScript libraries, the AppleScript Reference Library caters to the AppleScript developers and as such is an invaluable ressource:
 
